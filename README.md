@@ -7,6 +7,7 @@ Learning python from zero
 2. run any of the file as: 
 
 
-       python3 age.py 
-       or,  
-       python3 filename.py
+       python3 age.py  
+       python3 calculator.py
+       python3 temperature.py
+
